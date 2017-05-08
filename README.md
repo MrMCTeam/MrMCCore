@@ -10,12 +10,13 @@ Hello, My name is Luxin. This is commands and permissions table.
 
 (<""> = require , [""] = optional)
 
-/MrMC - see help [mrmc.help.user]
+Commands/Permission List:
+*/MrMC - see help [mrmc.help.user]
 
-/MrMCAdmin - see admin help [mrmc.help.admin]
+*/MrMCAdmin - see admin help [mrmc.help.admin]
 
-/fly [playername] - toggle flying mode [mrmc.fly.toggle]
+*/fly [playername] - toggle flying mode [mrmc.fly.toggle]
 
-/flyon [playername] - turn flying mode on [mrmc.fly.off]
+*/flyon [playername] - turn flying mode on [mrmc.fly.off]
 
-/flyoff [playername] - turn flying mode off [mrmc.fly.off]
+*/flyoff [playername] - turn flying mode off [mrmc.fly.off]

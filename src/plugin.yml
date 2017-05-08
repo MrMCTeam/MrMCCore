@@ -1,0 +1,26 @@
+name: MrMCCore
+main: me.mrmc.mrmccore.main
+version: 1.1
+commands:
+  fly:
+    description: enable/disable fly mode.
+  gms:
+    description: Set gamemode to survival.
+  gmc:
+    description: Set gamemode to creative.
+  gma:
+    description: Set gamemode to adventure.
+  gmsp:
+    description: Set gamemode to spectator.
+  heal:
+    description: Heal all health  bar
+  feed:
+    description: Feed all food bar
+  hello:
+    description: Say hello
+  sound:
+    description: Play the sound
+  svstop:
+    description: Stop the server
+  MrMCLobby:
+    description: Teleport to lobby
